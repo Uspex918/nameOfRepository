@@ -2,7 +2,7 @@
 
 const box = document.querySelector('.box');
 
-const newHeight = 100;
+const newHeight = 400;
 const newWidth = 100;
 
 function changeParams(elem, h, w) {
